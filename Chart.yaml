@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter
+description: A example Chart for Thermo Fisher Training
+type: application
+version: 2022.08.31
